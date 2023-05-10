@@ -79,7 +79,7 @@ const Home = () => {
             <h2>Choose a data range</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur. Ratione harum velit
-              delectus error dolores non neque fugiat at ut.
+              delectus error dolores non neque fugiat at.
             </p>
           </div>
         </div>
